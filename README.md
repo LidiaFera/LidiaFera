@@ -5,7 +5,7 @@
     align="left"
     alt="stats"
     height="200px"
-    src="https://github-readme-stats.vercel.app/api?username=LidiaFera&show=reviews&theme=merko" />
+    src="https://github-readme-stats.vercel.app/api?username=LidiaFera&show=reviews&theme=radical" />
 </p> 
 ##Linguagens e tecnologias:
 <p>
