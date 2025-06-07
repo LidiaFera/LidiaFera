@@ -5,7 +5,7 @@
     align="left"
     alt="stats"
     height="200px"
-    src="![cb5a658e-9862-4f70-8185-297519a892ed](https://github.com/user-attachments/assets/99019805-470f-4474-a73f-db96869681e4)" />
+    src="![WhatsApp Image 2025-06-06 at 18 25 09](https://github.com/user-attachments/assets/d800914c-78f5-4fd3-a860-6cc944e3f6e4)" />
 </p> 
 ##Linguagens e tecnologias:
 <p>
