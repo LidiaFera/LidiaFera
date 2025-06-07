@@ -5,7 +5,7 @@
     align="left"
     alt="stats"
     height="200px"
-    src="blob:https://web.whatsapp.com/cb5a658e-9862-4f70-8185-297519a892ed" />
+    src="![cb5a658e-9862-4f70-8185-297519a892ed](https://github.com/user-attachments/assets/99019805-470f-4474-a73f-db96869681e4)" />
 </p> 
 ##Linguagens e tecnologias:
 <p>
