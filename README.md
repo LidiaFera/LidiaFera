@@ -5,7 +5,7 @@
     align="left"
     alt="stats"
     height="200px"
-    src="https://github-readme-stats.vercel.app/api?username=LidiaFera&show=reviews&theme=radical" />
+    src="blob:https://web.whatsapp.com/cb5a658e-9862-4f70-8185-297519a892ed" />
 </p> 
 ##Linguagens e tecnologias:
 <p>
