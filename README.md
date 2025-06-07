@@ -5,7 +5,7 @@
     align="left"
     alt="stats"
     height="200px"
-    src="![WhatsApp Image 2025-06-06 at 18 25 09](https://github.com/user-attachments/assets/d800914c-78f5-4fd3-a860-6cc944e3f6e4)" />
+    src="https://github-readme-stats.vercel.app/api?username=LidiaFera&show=reviews&theme=radical" />
 </p> 
 ##Linguagens e tecnologias:
 <p>
@@ -37,4 +37,4 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 </p> 
-![apresentaçao](apresentaçao.img)
+
