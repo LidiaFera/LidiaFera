@@ -22,7 +22,7 @@
 
 ### Technologies I use in my daily work
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,express,mysql,vscode,figma,git,github,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,python,nodejs,express,mysql,vscode,figma,github,react&theme=light)](https://skillicons.dev)
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=9d00ff&animation=fadeIn" />
