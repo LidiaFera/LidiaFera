@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/pixel.gif" width="420" alt="Pixel art gif" />
+  <img src="./ativos/NOME-DO-SEU-GIF.gif" width="420" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=9d00ff&animation=fadeIn"/>
