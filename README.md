@@ -1,28 +1,35 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&ection=footer&color=9d00ff&reversal=true&animation=fadeIn&descAlignY=0&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=9d00ff&animation=fadeIn"/>
 
- 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFF00&width=600&lines=Hi,+I'm+Lídia+Fera!+🌐+💻" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=E6A8FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Lídia+Macedo;Biological+Sciences+%26+Programming" />
 </p>
 
-### 👨‍💻 Fullstack developer, I'm passionate about technology! I work with JavaScript, Python, modern frameworks, and databases, creating comprehensive projects.
+---
 
-### 💻 I'm enrolled in a professional full stack development course focused on practical, real-world skills (HTML, CSS, JavaScript, React, Node.js, databases, Git, Design, and more).
+### 🌿 About me
 
+🎓 Biological Sciences student  
+💻 Programming student (JavaScript & Python)  
+🌱 Passionate about technology and education  
+
+---
 
 ### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LidiaFera&layout=donut&show_icon=true&theme=gruvbox)](https://github.com/LidiaFera/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LidiaFera&theme=github_dark"/>
+</p>
 
 <br>
 
+---
 
+### 💻 Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,python,nodejs,express,mysql,vscode,figma,github,react&theme=light" />
+</p>
 
+---
 
-### Technologies I use in my daily work
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,git,python,nodejs,express,mysql,vscode,figma,github,react&theme=light)](https://skillicons.dev)
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=9d00ff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=9d00ff&animation=fadeIn"/>
