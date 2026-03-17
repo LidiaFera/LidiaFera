@@ -14,10 +14,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Radar Chart
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LidiaFera&theme=github_dark"/>
+  <img src="./assets/radar-roxo.png" width="320" alt="Radar chart" />
 </p>
 
 <br>
@@ -28,6 +28,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,git,python,nodejs,express,mysql,vscode,figma,github,react&theme=light" />
+</p>
+
+<p align="center">
+  <img src="[./assets/pixel.gif](https://i.pinimg.com/originals/c5/e4/b5/c5e4b54952c6857bf00a02929abffe51.gif)" width="420" />
 </p>
 
 ---
