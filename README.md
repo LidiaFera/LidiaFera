@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LidiaFera/LidiaFera/main/ativos/SEU-GIF.gif" width="420" />
+  <img src="https://raw.githubusercontent.com/LidiaFera/LidiaFera/main/ativos/c5e4b54952c6857bf00a02929abffe51.gif" width="420" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=9d00ff&animation=fadeIn"/>
