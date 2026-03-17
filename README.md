@@ -14,10 +14,11 @@
 
 ---
 
-### 📊 Radar Chart
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./assets/radar-roxo.png" width="320" alt="Radar chart" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LidiaFera&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LidiaFera&show_icons=true&theme=midnight-purple&hide_border=true" />
 </p>
 
 <br>
@@ -30,10 +31,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,git,python,nodejs,express,mysql,vscode,figma,github,react&theme=light" />
 </p>
 
-<p align="center">
-  <img src="[./assets/pixel.gif](https://i.pinimg.com/originals/c5/e4/b5/c5e4b54952c6857bf00a02929abffe51.gif)" width="420" />
-</p>
-
 ---
+
+<p align="center">
+  <img src="./assets/pixel.gif" width="420" alt="Pixel art gif" />
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=9d00ff&animation=fadeIn"/>
